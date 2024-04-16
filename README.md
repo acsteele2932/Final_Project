@@ -13,3 +13,6 @@ Pittsburgh Neighborhoods - https://data.wprdc.org/dataset/neighborhoods2
 
 Smart Trash Containers - https://data.wprdc.org/dataset/smart-trash-containers
 - This data set contains the smart trash can locations in Pittsburgh
+
+Air Quality Reports - https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/36fb4629-8003-4acc-a1ca-3302778a530d
+- This data set contains hourly air quality reports from neighborhoods in Pittsburgh.
