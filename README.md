@@ -16,3 +16,6 @@ Smart Trash Containers - https://data.wprdc.org/dataset/smart-trash-containers
 
 Air Quality Reports - https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/36fb4629-8003-4acc-a1ca-3302778a530d
 - This data set contains hourly air quality reports from neighborhoods in Pittsburgh.
+
+Pittsburgh Bridges - https://data.wprdc.org/dataset/pittsburgh-bridges
+- This dataset contains the bridges of Pittsburgh and which neighborhoods they are in.
