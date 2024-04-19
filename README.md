@@ -3,6 +3,7 @@
 Team Dirt: This repository has data sets manipulated to find relevant data on finding the best neighborhood in Pittsburgh based on environmental quality. The three metrics to be evaluated are air quality, amount of smart trash cans, and number of bridges.
 
 Canvas Group 29
+
 Abigail Steele - acg84@pitt.edu
 
 Elizabeth O'Connell - elo57@pitt.edu
